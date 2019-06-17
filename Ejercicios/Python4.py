@@ -10,6 +10,8 @@ promedio_pasajeros_por_carros = pasajeros / carros_conducidos
 #Mensajes que serán presentados
 #(git commit -am "texto") --> para agregar ultimos cambios
 #Otro comentario
+#Comprobando git
+
 print("Existen ", carros, " carros disponibles.")
 print("Solo hay ", conductores, " conductores.")
 print("Deben haber ",carros_no_conducidos," carros vacios hoy.")
